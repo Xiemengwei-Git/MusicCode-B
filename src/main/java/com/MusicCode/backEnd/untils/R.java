@@ -16,4 +16,6 @@ public class R {
     private String msg;
     // 记录数
     private Integer total;
+    //令牌
+    private String token;
 }
