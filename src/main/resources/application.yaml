@@ -1,2 +1,8 @@
 server:
   port: 9527
+spring:
+  datasource:
+    url: mysql://139.196.230.113:3306/bbs?serverTimeZone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: lyj
+    password: 123456
